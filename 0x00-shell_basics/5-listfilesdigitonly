@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | sort --human-numeric-sort
+ls -la -n
